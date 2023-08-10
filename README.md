@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **parkyooyoung/parkyooyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Welcome!%20Young's%20Hub&fontSize=60" alt="header">
+</div>
+<div align="center">
+  :computer:
+</div>
