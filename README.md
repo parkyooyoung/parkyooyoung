@@ -12,5 +12,6 @@
   <br>
 
   <img src="https://img.shields.io/badge/django-092E20?style=flat&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white">
   <br>
 </div>
